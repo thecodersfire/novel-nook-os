@@ -26,4 +26,4 @@ The `novel-nook-os.svg` wallpaper is original. Novel Nook OS is an independent U
 See [FEATURES.md](FEATURES.md) for three local tools included for long-form writing, document editing, and ebook organization.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
