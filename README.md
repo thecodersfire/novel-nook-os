@@ -25,3 +25,9 @@ The `novel-nook-os.svg` wallpaper is original. Novel Nook OS is an independent U
 
 See [FEATURES.md](FEATURES.md) for three local tools included for long-form writing, document editing, and ebook organization.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, GNOME Calendar, GIMP**. See [FEATURES.md](FEATURES.md).

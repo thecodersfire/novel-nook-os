@@ -4,3 +4,8 @@ com.opera.opera-gx
 org.libreoffice.LibreOffice
 com.calibre_ebook.calibre
 org.gnome.TextEditor
+
+# Three additional preinstalled purpose-specific applications
+org.zotero.Zotero
+org.gnome.Calendar
+org.gimp.GIMP

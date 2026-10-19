@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/novel-nook-os-workspace features/novel-nook-os-plan features/novel-nook-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for long-form writing, document editing, and ebook organization:
+
+1. **Zotero** — org.zotero.Zotero
+2. **GNOME Calendar** — org.gnome.Calendar
+3. **GIMP** — org.gimp.GIMP
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
