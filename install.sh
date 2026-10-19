@@ -9,3 +9,8 @@ mapfile -t apps < <(grep -Ev '^([[:space:]]*#|[[:space:]]*$)' "$(dirname "$0")/a
 flatpak install --user --noninteractive flathub "${apps[@]}"
 echo "Setup complete. Open Software to browse apps."
 
+
+# Install this project's three purpose-specific local helper commands.
+mkdir -p "$HOME/.local/bin"
+install -m 0755 "$(dirname "$0")"/features/* "$HOME/.local/bin/"
+echo 'Purpose-specific helper commands are installed in ~/.local/bin.'
