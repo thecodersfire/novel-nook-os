@@ -5,7 +5,19 @@ org.libreoffice.LibreOffice
 com.calibre_ebook.calibre
 org.gnome.TextEditor
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.zotero.Zotero
 org.gnome.Calendar
 org.gimp.GIMP
+
+# Ten additional preinstalled purpose-specific applications
+com.github.johnfactotum.Foliate
+net.ankiweb.Anki
+org.gnome.Papers
+org.gnome.clocks
+org.gnome.SimpleScan
+org.gnome.Contacts
+org.gnome.Calculator
+org.gnome.Maps
+org.gnome.Boxes
+org.gnome.Weather
