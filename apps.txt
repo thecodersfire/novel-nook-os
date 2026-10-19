@@ -1,0 +1,6 @@
+# Flathub application IDs for this desktop setup
+org.mozilla.firefox
+com.opera.opera-gx
+org.libreoffice.LibreOffice
+com.calibre_ebook.calibre
+org.gnome.TextEditor
